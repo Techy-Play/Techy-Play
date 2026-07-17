@@ -1,4 +1,3 @@
-<img src="IMG.png" width="100%">
 
 # Hi, I'm Lokesh! 👋
 
@@ -21,7 +20,7 @@
 </td>
 
 <td width="35%" align="center">
-<img src="brain.png" width="300">
+<img src="[brain.png](https://github.com/samarth2703/samarth2703/raw/main/brain.png)" width="300">
 </td>
 
 </tr>
