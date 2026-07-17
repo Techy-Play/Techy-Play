@@ -50,7 +50,7 @@ I'm passionate about building secure, scalable, and practical tech solutions.
 <tr>
 
 <td width="35%" align="center">
-<img src="chess.png" width="280">
+<img src="https://github.com/samarth2703/samarth2703/raw/main/chess.png" width="280">
 </td>
 
 <td width="65%" valign="middle">
