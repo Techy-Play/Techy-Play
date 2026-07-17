@@ -1,6 +1,16 @@
 
 # Hi, I'm Lokesh! 👋
 
+<table>
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/lokeshpaneru/" target="_blank">
+<img src="https://media.licdn.com/dms/image/v2/D5603AQH1uQwQ6MnhJA/profile-displayphoto-crop_800_800/B56Z4TZDjKJkAI-/0/1778441798218?e=1785974400&v=beta&t=hyBKPj8SCEfVNpXXVewWrAKsK0n7aXNlQ7eOR_f41QE" alt="LinkedIn" />
+</a>
+</td>
+</tr>
+</table>
+
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="65%" valign="top">
