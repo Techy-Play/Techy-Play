@@ -1,12 +1,27 @@
-
-# Hi, I'm Lokesh! 👋
-
 <table>
 <tr>
-<td>
+<td width="180" align="center">
+
 <a href="https://www.linkedin.com/in/lokeshpaneru/" target="_blank">
-<img src="https://media.licdn.com/dms/image/v2/D5603AQH1uQwQ6MnhJA/profile-displayphoto-crop_800_800/B56Z4TZDjKJkAI-/0/1778441798218?e=1785974400&v=beta&t=hyBKPj8SCEfVNpXXVewWrAKsK0n7aXNlQ7eOR_f41QE" alt="LinkedIn" />
+<img src="https://media.licdn.com/dms/image/v2/D5603AQH1uQwQ6MnhJA/profile-displayphoto-crop_800_800/B56Z4TZDjKJkAI-/0/1778441798218?e=1785974400&v=beta&t=hyBKPj8SCEfVNpXXVewWrAKsK0n7aXNlQ7eOR_f41QE" width="150" style="border-radius:50%;" />
 </a>
+
+</td>
+
+<td valign="top">
+
+# Lokesh Paneru
+
+**DevSecOps Enthusiast**  
+Cloud • Linux • Security • IoT
+
+🎓 **B.Tech CSE (IoT & Data Science)**  
+🏫 Amrapali University
+
+💻 Passionate about building secure web applications, IoT systems, and cloud-native solutions.
+
+🔗 <a href="https://www.linkedin.com/in/lokeshpaneru/">View LinkedIn Profile →</a>
+
 </td>
 </tr>
 </table>
