@@ -94,7 +94,7 @@ I'm passionate about building secure, scalable, and practical tech solutions.
 </td>
 
 <td width="40%" align="center">
-<img src="win.png" width="320">
+<img src="https://github.com/samarth2703/samarth2703/raw/main/win.png" width="320">
 </td>
 
 </tr>
