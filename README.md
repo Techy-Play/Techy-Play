@@ -1,25 +1,122 @@
-# Hi 👋, I'm Lokesh Paneru
+<img src="IMG.png" width="100%">
 
-🎓 B.Tech CSE (IoT & Data Science)  
-🔐 Aspiring DevSecOps Engineer | Cloud & Security Enthusiast  
-💻 Building scalable web applications, IoT solutions, and automation tools.
+# Hi, I'm Lokesh! 👋
 
-## 🚀 Tech Stack
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="65%" valign="top">
 
-**Languages:** Python, Java, JavaScript, TypeScript, C/C++  
-**Frontend:** Next.js, React, Tailwind CSS  
-**Backend:** Node.js, Express, Flask  
-**Database:** MongoDB, PostgreSQL, MySQL  
-**Tools:** Docker, Linux, Git, GitHub Actions, AWS
+**DevSecOps Enthusiast | Cloud & Linux Learner | IoT Developer**
 
-## ⭐ Featured Projects
+💻 Passionate about **security, automation, and building useful systems**.  
 
-- 📚 Acadex
-- 🏢 IHGST Portal
-- 🤖 Smart Cleaning Bot
-- 🌐 AMP-Devs
+🔐 Interested in **DevSecOps, Linux, cloud, and secure development**.  
 
-## 📫 Connect
+🤖 Love working on **IoT projects and practical software solutions**.  
 
-🌐 Portfolio: https://lokeshpaneru.vercel.app  
-📧 Email: your-email@example.com
+⚙️ Learning **Docker, GitHub Actions, AWS, and Kubernetes**.  
+
+🚀 Always building, always improving.
+
+</td>
+
+<td width="35%" align="center">
+<img src="brain.png" width="300">
+</td>
+
+</tr>
+</table>
+
+---
+
+I'm passionate about building secure, scalable, and practical tech solutions.
+
+---
+
+## ⚔️ Skills
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF1C1C"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF1C1C"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF1C1C"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF1C1C"/>
+<img src="https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=linux&logoColor=FF1C1C"/>
+</p>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,git,github,linux,docker,aws,vscode&theme=dark"/>
+</p>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="35%" align="center">
+<img src="chess.png" width="280">
+</td>
+
+<td width="65%" valign="middle">
+
+• **DevSecOps:** Docker, CI/CD, Linux, GitHub Actions  
+
+<br><br>
+
+• **Programming:** Python · Java · JavaScript · TypeScript  
+
+<br><br>
+
+• **Cloud / Tools:** AWS, Git, Linux, VS Code  
+
+<br><br>
+
+• **Projects:** Web apps, IoT systems, automation tools  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="60%" valign="top">
+
+### Featured Projects
+
+- 📚 **Acadex**
+- 🏢 **IHGST Portal**
+- 🤖 **Smart Cleaning Bot**
+- 🌐 **AMP-Devs**
+- ♻️ **Smart Recycling Hub**
+
+</td>
+
+<td width="40%" align="center">
+<img src="win.png" width="320">
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/Techy-Play" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1C1C" height="40">
+</a>
+
+<a href="https://lokeshpaneru.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF1C1C" height="40">
+</a>
+
+<a href="mailto:your-email@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1C1C" height="40">
+</a>
+
+</p>
