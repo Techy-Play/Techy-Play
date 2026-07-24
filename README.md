@@ -139,7 +139,7 @@ I'm passionate about building secure, scalable, and practical tech solutions.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF1C1C" height="40">
 </a>
 
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:lokeshpaneru20508@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1C1C" height="40">
 </a>
 
